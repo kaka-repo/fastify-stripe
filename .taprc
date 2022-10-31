@@ -2,4 +2,4 @@ ts: true
 jsx: false
 flow: false
 check-coverage: true
-coverage: true
+coverage: false
