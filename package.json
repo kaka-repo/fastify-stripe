@@ -54,6 +54,6 @@
   },
   "dependencies": {
     "fastify-plugin": "^4.3.0",
-    "stripe": "^10.15.0"
+    "stripe": "^11.0.0"
   }
 }
